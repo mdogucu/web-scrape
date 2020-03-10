@@ -1,6 +1,6 @@
 # Web Scraping in the Statistics and Data Science Curriculum: Challenges and Opportunities
 
-[Mine Dogucu](https://mdogucu.ics.uci.edu/), University of California Irvine
+[Mine Dogucu](https://mdogucu.ics.uci.edu/), University of California Irvine  
 [Mine Çetinkaya-Rundel](//http://mine-cr.com/) University of Edinburgh, RStudio, and Duke University
 
 ## Abstract
