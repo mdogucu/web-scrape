@@ -3,11 +3,13 @@
 [Mine Dogucu](https://mdogucu.ics.uci.edu/), University of California Irvine  
 [Mine Çetinkaya-Rundel](//http://mine-cr.com/) University of Edinburgh, RStudio, and Duke University
 
-Paper conditionally accepted to [Journal of Statistics Education](https://www.tandfonline.com/toc/ujse20/current)
+Paper conditionally accepted to [Journal of Statistics Education](https://www.tandfonline.com/toc/ujse20/current).
+
 
 The code for web scraping examples can be found [in this repo](https://github.com/mdogucu/web-scrape/tree/master/opensecrets) and on [RStudio Cloud](https://rstudio.cloud/project/797118).
 
 Preprint of the paper is available [in this repo](https://github.com/mdogucu/web-scrape/web_scrape.pdf)
+
 
 
 ## Abstract
