@@ -8,7 +8,7 @@ Paper conditionally accepted to [Journal of Statistics Education](https://www.ta
 
 The code for web scraping examples can be found [in this repo](https://github.com/mdogucu/web-scrape/tree/master/opensecrets) and on [RStudio Cloud](https://rstudio.cloud/project/797118).
 
-Preprint of the paper is available [in this repo](https://github.com/mdogucu/web-scrape/web_scrape.pdf).
+Preprint of the paper is available [here](https://github.com/mdogucu/web-scrape/blob/master/web_scrape.pdf).
 
 
 
