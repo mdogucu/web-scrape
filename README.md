@@ -3,7 +3,9 @@
 [Mine Dogucu](https://mdogucu.ics.uci.edu), University of California Irvine  
 [Mine Çetinkaya-Rundel](http://www2.stat.duke.edu/~mc301) University of Edinburgh, RStudio, and Duke University
 
-Paper conditionally accepted to [Journal of Statistics Education](https://www.tandfonline.com/toc/ujse20/current).
+To cite this article:
+
+Mine Dogucu & Mine Çetinkaya-Rundel (In press), Web Scraping in the Statistics and Data Science Curriculum: Challenges and Opportunities, Journal of Statistics Education.
 
 
 The code for web scraping examples can be found [in this repo](https://github.com/mdogucu/web-scrape/tree/master/opensecrets) and on [RStudio Cloud](https://rstudio.cloud/project/797118).
