@@ -5,8 +5,7 @@
 
 To cite this article:
 
-Mine Dogucu & Mine Çetinkaya-Rundel (2020), Web Scraping in the Statistics and Data Science Curriculum: Challenges and Opportunities, Journal of Statistics Education.
-
+Mine Dogucu & Mine Çetinkaya-Rundel (2020): Web Scraping in the Statistics and Data Science Curriculum: Challenges and Opportunities, Journal of Statistics Education, DOI:10.1080/10691898.2020.1787116
 
 The code for web scraping examples can be found [in this repo](https://github.com/mdogucu/web-scrape/tree/master/opensecrets) and on [RStudio Cloud](https://rstudio.cloud/project/797118).
 
